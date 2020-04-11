@@ -29,5 +29,18 @@ object ValuesVariableTypes  extends App {
   // var are mutable
   aVariable = 5 // side effects
 
+  /*********************
+   * Notes
+   *
+   *  1) Prefer vals over vars
+   *  2) all vals and vars have types
+   *  3) compiler automatically infer types when omitted
+   *  4) learned how to use basic types
+   *    * Boolean
+   *    * Int, Short, Long, Float, Double
+   *    * String, Char
+   *
+   *
+   ************************/
 
 }

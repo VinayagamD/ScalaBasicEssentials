@@ -67,4 +67,19 @@ object Expressions extends App {
    *
    ***********************/
 
+  /****************************
+   *
+   *  1) Difference between "hello world" vs println("hello world")?
+   *
+   *************************/
+
+  val someValue = {
+    2 < 3
+  }
+  println(someValue)
+  val someOtherValue = {
+    if (someValue) 239 else 986
+    42
+  }
+  println(someOtherValue)
 }

@@ -1,4 +1,4 @@
-package lectures.part1
+package lectures.part1_basics
 
 object Expressions extends App {
 
